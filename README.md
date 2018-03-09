@@ -1,5 +1,7 @@
 # ALOCCA
 
+NEW VERSION: [here](https://github.com/LucasAurelio/alocca3.0)
+
 Alocca is a web system that helps department coordinators of universities allocate professors, classes and classrooms every  semester.
 
 ## Developers
